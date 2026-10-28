@@ -1,5 +1,3 @@
-# Robert de Haas (0954160)
-#
 # -- Arguments:
 # input_file: location of the netMHCpan file
 # output_file: location of the output csv file
