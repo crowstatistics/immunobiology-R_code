@@ -56,7 +56,7 @@ freq_bar <- barplot(allele_freq_tot
         , ylab = "total frequency"
         , ylim = c(0,0.35))
 
-text(x=freq_bar,y=height_freq+0.028,
+text(x=freq_bar,y=allele_freq_tot+0.028,
      labels=round(allele_freq_tot,digits=2)
      ,cex=0.9)
 
